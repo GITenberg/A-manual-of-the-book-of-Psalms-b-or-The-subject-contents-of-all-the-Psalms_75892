@@ -1,0 +1,40 @@
+_repo: A-manual-of-the-book-of-Psalms-b-or-The-subject-contents-of-all-the-Psalms_75892
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cole, Henry
+    alias: Cole, Henry, Rev.
+    birthdate: 1792
+    deathdate: 1858
+    gutenberg_agent_id: '58194'
+    url: http://www.gutenberg.org/2009/agents/58194
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Cole_(minister)
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: https://en.wikipedia.org/wiki/Martin_Luther
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75892'
+language: en
+pgterms:marc904: https://archive.org/details/amanualofthebook00luthuoft
+pgterms:marc905: 20240831094429luther
+pgterms:marc906: '1837'
+pgterms:marc907: GB
+production_note: Ron Swanson
+publication_note: '  $aLondon :$bR. B. Seeley and W. Burnside, $c1837.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Psalms -- Commentaries'
+- !lcc 'BS'
+- GITenberg
+title: 'A manual of the book of Psalms : $b or, The subject-contents of all the Psalms'
+url: http://www.gutenberg.org/ebooks/75892
